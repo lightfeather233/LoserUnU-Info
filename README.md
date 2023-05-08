@@ -1,11 +1,13 @@
 # LoserUnU-Info
-## LoserUnUÊÇÒ»¸öÏ²°®ÉñÈ¨Óë¾«ÉñÊ¤ÀûµÄ´ò»¬Õß
-LoseUnU±¾ÈËQQ´óºÅ : 3271258347
-LoseUnU±¾ÈËÊÖ»úºÅ : 15252618880
-LoseUnU±¾ÈËÊµÃû : ÄþÊÀöÎ
-### P.S. ´Ë²Ö¿â½«»á³ÖÐø¸üÐÂÄþÊÀöÎÐ¡ÅóÓÑ Óë ÆäÈºÁÄ¹ÜÀíÔ±µÄÈõÖÇ¸ãÐ¦ÑÔÂÛ
-### Ä¿Ç°Nettion DeobfÈÎÎñÒÑ½âÃÜ×Ö·û´®ÓëÊý×Ö»ìÏý by Nop
-### ºóÐø½«»áready´ËÀ¬»ø¿Í»§¶Ë ²¢ ÂúµÄ½âÃÜLoserUnU±¾ÈË
-## ÏÂÃæÇëÐÀÉÍÊÀöÎÐ¡ÅóÓÑ Óë ÆäÈºÁÄ¹ÜÀíÔ±µÄ²¿·ÖÈõÖÇ¸ãÐ¦ÑÔÂÛ Èç¹ûÎÞ·¨¼ÓÔØÍ¼Æ¬Çë¹Ò¸öÌÝ×Ó
-### ÊÖ¶¯Renamer
+## LoserUnUæ˜¯ä¸€ä¸ªå–œçˆ±ç¥žæƒä¸Žç²¾ç¥žèƒœåˆ©çš„æ‰“æ»‘è€…
+LoseUnUæœ¬äººQQå¤§å· : 3271258347
+LoseUnUæœ¬äººæ‰‹æœºå· : 15252618880
+LoseUnUæœ¬äººå®žå : å®ä¸–é‘«
+### P.S. æ­¤ä»“åº“å°†ä¼šæŒç»­æ›´æ–°å®ä¸–é‘«å°æœ‹å‹ ä¸Ž å…¶ç¾¤èŠç®¡ç†å‘˜çš„å¼±æ™ºæžç¬‘è¨€è®º
+### ç›®å‰Nettion Deobfä»»åŠ¡å·²è§£å¯†å­—ç¬¦ä¸²ä¸Žæ•°å­—æ··æ·† by Nop
+### åŽç»­å°†ä¼šreadyæ­¤åžƒåœ¾å®¢æˆ·ç«¯ å¹¶ æ»¡çš„è§£å¯†LoserUnUæœ¬äºº
+## ä¸‹é¢è¯·æ¬£èµä¸–é‘«å°æœ‹å‹ ä¸Ž å…¶ç¾¤èŠç®¡ç†å‘˜çš„éƒ¨åˆ†å¼±æ™ºæžç¬‘è¨€è®º å¦‚æžœæ— æ³•åŠ è½½å›¾ç‰‡è¯·æŒ‚ä¸ªæ¢¯å­
+### æ‰‹åŠ¨Renamer
 ![](https://github.com/purel4nd/LoserUnU-Info/blob/main/images/renamer.png)
+### æ‰‹åŠ¨ä¿®æ”¹ç±»åç»“æžœæŠ¥é”™ðŸ¤£
+![](https://github.com/purel4nd/LoserUnU-Info/blob/main/images/lol.png)
